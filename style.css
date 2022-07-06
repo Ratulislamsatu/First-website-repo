@@ -1,0 +1,80 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.first-class {
+    background-image: url(images/donation0.jpg);
+    background-size: 100%;
+    background-position: 30px;
+    height: 650px;
+    color: white;
+    width: 1330px;
+    background-color: rgba(46, 41, 41, 0.486);
+}
+
+.flexible-container {
+    display: flex;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+span {
+    color: rgb(253, 117, 6);
+}
+
+p {
+    font-size: 16px;
+    color: rgb(28, 220, 226);
+    padding-left: 10px;
+    text-align: center;
+    text-shadow: 10px 10px 50px 100px;
+}
+
+.link-name {
+    text-align: center;
+    background-image: linear-gradient(orange, tomato);
+    color: rgb(243, 236, 222);
+    border-radius: 7%;
+    padding: 5px;
+    font-weight: 700px;
+    text-decoration: solid;
+    margin-left: 600px;
+}
+
+.last-class {
+    color: black;
+}
+
+.last {
+    display: inline;
+}
+
+.half-width {
+    width: 2%;
+    margin-left: 220px;
+}
+
+.tk {
+    color: orange;
+}
+
+.link {
+    margin-left: 40%;
+    border-bottom: 50%;
+    border: 100%;
+}
+
+.pay {
+    background-image: linear-gradient(rgb(177, 144, 81), rgb(57, 160, 158));
+    color: rgb(240, 235, 226);
+    border-radius: 7%;
+    padding: 5px;
+    font-weight: 200px;
+    margin-left: 250px;
+    margin-right: 200px;
+    text-decoration: solid;
+    margin-inline: 40px;
+}
