@@ -78,3 +78,40 @@ p {
     text-decoration: solid;
     margin-inline: 40px;
 }
+
+h6 {
+    text-align: center;
+}
+
+.one {
+    color: black;
+    background-color: rgb(90, 165, 136);
+    border-radius: 2%;
+    padding: 5px;
+    height: 150%;
+    text-align: center;
+    width: 1100px;
+    margin-left: 20px;
+}
+
+.two {
+    color: black;
+    background-color: rgb(180, 161, 136);
+    border-radius: 2%;
+    padding: 5px;
+    height: 150%;
+    text-align: center;
+    width: 1100px;
+    margin-left: 20px;
+}
+
+.three {
+    color: black;
+    background-color: rgb(129, 116, 189);
+    border-radius: 2%;
+    padding: 5px;
+    height: 150%;
+    text-align: center;
+    width: 1100px;
+    margin-left: 20px;
+}
