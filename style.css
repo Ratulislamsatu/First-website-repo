@@ -130,8 +130,37 @@ h6 {
 
 #one {
     color: black;
+    text-align: left;
+    margin-right: 40%%;
 }
 
 h2 {
-    text-align: center;
+    text-align: left;
+}
+
+.flexible-container {
+    display: flex;
+    margin-top: 100px;
+}
+
+.zero {
+    margin-left: 40%;
+    margin-right: 40%;
+    padding: 10px;
+    border: 20px;
+    background-color: orangered;
+    background-position: 10px;
+}
+
+.footer {
+    color: rgb(226, 103, 124);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+footer {
+    color: white;
+    background-color: black;
+    width: 100%;
+    padding-bottom: 5%;
+
 }
